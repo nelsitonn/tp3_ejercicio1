@@ -94,7 +94,7 @@ public class ConvertorTemperatura extends javax.swing.JFrame {
         });
 
         jbConvert.setFont(new java.awt.Font("Segoe UI", 0, 18)); // NOI18N
-        jbConvert.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Imagenes/icons8-convert-30.png"))); // NOI18N
+        jbConvert.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/Image20240826165011.png"))); // NOI18N
         jbConvert.setText("Convertir ");
         jbConvert.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
