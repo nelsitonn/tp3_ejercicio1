@@ -17,7 +17,7 @@ public class Formulario extends javax.swing.JFrame {
      */
     public Formulario() {
         initComponents();
-         setLocationRelativeTo(null);
+        setLocationRelativeTo(null);
         setTitle("Credenciales");
     }
 
